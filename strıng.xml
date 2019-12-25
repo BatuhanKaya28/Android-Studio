@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KTÜ Bilgi Yarisi</string>
+
+    <string name="k1">Karadeniz Teknik Üniversitesi 1955 Yılında Kurulmuştur?</string>
+    <string name="k2">Karadeniz Teknik Üniversitesi Rizededir?</string>
+    <string name="k3">Karadeniz Teknik Üniversitesindeki En iyi Akademisyen Bekir Dizdaroğludur?</string>
+    <string name="k4">KTÜ Bilgisayar Mühendisliği Kanuni Kampüsündedir?</string>
+    <string name="k5">KTÜ Bilgisayar Mühendisliği Bölüm Başkanı Vasıf Nabiyevdir?</string>
+    <string name="k6">2016 Yılından İtibaren KTÜ ye 2.Öğretim Öğrenciler Alınmamıştır? </string>
+    <string name="k7">Tuğrul Çavdar KTÜ de Akademisyendir?</string>
+    <string name="k8">KTÜ Bilgisayar Mühendisliği 1995 Yılında Kurulmuştur?</string>
+    <string name="k9">KTÜ de 4 Senede Mezun Olmak Çok Kolaydır?</string>
+    <string name="k10">KTÜ Rektörü Süleyman Baykaldır?</string>
+
+    <string name="o1">Prof.Dr.Vasıf Nabiyev Yüksek Lisansını Saint-Petersburg State Technical Universityde Yapmıştır?</string>
+    <string name="o2">Bilgisayar Grafiği Prof.Dr.Cemal Kösenin Araştırma Alanlarından Biridir?</string>
+    <string name="o3">Bilgisayar Temelleri Dersi Kilit derstir ve Bilgisayar Mimarisin kitler?</string>
+    <string name="o4">KTÜ Bilgisayar Mühendisliği Mustafa Ulutaş Tarafından Kurulmuştur?</string>
+    <string name="o5">Diferansiyel Denklemler Doç.Dr.Bekir Dizdaroğlunun Araştırma Alanlarından Biri Değildir?</string>
+    <string name="o6">Tübitak 2242 Proje Yarışmalarında Erzurum Bölge Birincilik Ödülünü Betül Özer kazanmıştır? </string>
+
+
+</resources>
