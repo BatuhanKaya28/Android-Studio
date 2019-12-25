@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/end"
+    tools:context=".OrtaResultActivity">
+
+    <TextView
+        android:id="@+id/tv_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="140dp"
+        android:text="Bir dahaki sefere iyi şanslar"
+        android:textColor="@color/colorAccent"
+        android:textSize="15sp" />
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Oyun Bitti!"
+        android:textColor="@color/colorAccent"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/yapilanpuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="points"
+        android:textColor="@color/colorAccent"
+        android:textSize="18sp" />
+    <TextView
+        android:id="@+id/bss"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yapilanpuan"
+        android:layout_alignStart="@id/home"
+        android:layout_alignLeft="@id/home"
+        android:layout_marginTop="16dp"
+        android:text="En İyi Skor"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/eniyiskor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bss"
+        android:layout_alignStart="@id/bss"
+        android:layout_alignLeft="@+id/bss"
+        android:layout_marginTop="10dp"
+        android:text="En İyi Skor"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp" />
+    <Button
+        android:text="Ana Sayfa"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/home"
+        android:textColor="#ffffff"
+        android:background="#9b59b6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
